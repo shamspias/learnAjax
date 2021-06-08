@@ -1,0 +1,10 @@
+venv
+.idea
+migrations
+.git
+__pycache__
+
+
+# Files
+*.env
+*.sqlite3
